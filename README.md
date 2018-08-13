@@ -22,3 +22,17 @@ https://developer.okta.com/blog/2018/03/23/token-authentication-aspnetcore-compl
 https://auth0.com/blog/asp-dot-net-core-authentication-tutorial/
 
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.1&tabs=visual-studio
+
+
+MongoDB EF Core-Project
+https://www.cdata.com/kb/tech/mongodb-ado-codefirst.rst
+
+https://www.cdata.com/drivers/mongodb/ado/?ref=rssbus
+
+https://www.cdata.com/kb/tech/mongodb-ado-codefirst.rst
+
+https://blogs.endjin.com/2010/12/a-step-by-step-guide-to-mongodb-for-net-developers/
+
+https://www.dotnetcurry.com/aspnet-mvc/1267/using-mongodb-nosql-database-with-aspnet-webapi-core
+
+https://github.com/crhairr/EntityFrameworkCore.MongoDb/wiki/Getting-Started
